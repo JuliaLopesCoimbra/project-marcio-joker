@@ -30,4 +30,4 @@ Para rodar o jogo localmente, siga estas etapas:
 Você pode ver melhor pelas imagens abaixo:
 ![one](ganhou.png)
 ![two](perdeu.png)
-![three](video.mp4)
+![three](gif.gif)
